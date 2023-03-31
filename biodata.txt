@@ -1,0 +1,11 @@
+Nama: Andika Eka Putra
+TTL: Kota Bogor, 10-02-1998
+Agama: Islam
+Gender: Laki-Laki
+Status Perkawinan: Belum Menikah
+Pendidikan Terakhir: D3 Sistem Informasi
+Pengalaman Kerja: Masih belum bekerja
+Pekerjaan: Belum bekerja
+Hobi: Mobile programing dan Web programing (untuk project pribadi lebih suka buat backend sendiri)
+Minat: Android (kotlin), Fullstack Web (JavaScript, Express, React), Cloud Computing, Machine Learning
+Bahasa Pemrograman: Memiliki pengetahuan dasar dalam bahasa JavaScript, Kotlin, Java, Php
